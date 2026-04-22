@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+.gemini/
+assets/hero-bg.png
+# Keep other assets

@@ -1,0 +1,126 @@
+Abdelrhman Eyad  Teaching Assistant
+iabdelrhmaneyad@gmail.com
+Assiut
+iabdelrhmaneyad
+Temporary Expanded
+(+20) 114 252 8527
+iabdelrhmaneyad
+@iabdelrhmaneyad
+Summary
+Cloud Engineer and Teaching Assistant at BUA with experience in multiple cloud vendors including AWS, 
+GCP, and Azure. Strong belief in the transformative power of technology. As a public speaker at multiple 
+events and conferences, I possess exceptional communication and presentation skills that enable me to 
+articulate complex ideas with clarity and precision.
+Work Experience
+2023 Sep – present
+2023 Nov – present
+Remote
+2022 Dec – 2023 Aug
+Remote
+2021 Aug – 2021 Sep
+Remote
+Teaching Assistant at Faculty of Artificial Intelligence., 
+Badr University in Assuit-BUA
+•
+Education Mentor, iSchool
+Conduct regular technical support, training sessions, and professional 
+development workshops to enhance tutors' subject knowledge and teaching 
+skills.
+Collaborate with tutors to develop customized learning plans
+•
+Cloud Advisor, ETA Solutions Space LLC
+providing guidance and expertise in cloud technologies to clients.
+•
+•
+Assist in the planning, deployment, and migration of applications and 
+infrastructure to cloud platforms.
+•
+Summer Academy 2021, Dell Technologies
+Participated in a comprehensive internship program focused on cloud 
+technologies.
+Gained hands-on experience with industry-leading technologies and tools.
+•
+Education
+2023 Oct – present
+2019 Oct – 2023 Jul
+Assiut, Egypt
+Master's degree in Information Technology, 
+Faculty of Computer and Artificial Intelligence, Helwan University
+Bachelor's Degree Faculty of Computer and Information in Information 
+Technology, Assiut University
+CGPA: 3.58/ 4
+•
+Class Ranking: Third in Class
+•
+Skills
+Misc.
+Networking - Linux - Git - Systems
+design - Cloud-native - Serverless - Agile - Design
+Thinking.
+Certificates
+Advanced Cloud DevOps Nano Degree Issued June 
+2022
+Microsoft Certified: Azure Fundamentals Issued 
+Sept 2022 
+Cloud Platforms
+AWS - Azure - GCP
+Database systems
+MySQL
+Programing Languages
+C# - Python - Golang (Go) -PhP - C++
+Soft Skills
+Google IT Automation with Python Specialization 
+Google Cloud Trainings - Qwiklabs 
+Creativity - Initiative - Leadership - Public Speaking
+Professional Trainings
+2023 Jul – 2023 Oct
+Giza, Egypt
+VMware on AWS, 
+Digital Egypt Youth Initiative, National Telecommunication Institute (NTI)
+Technical Modules:288 Hours.
+Linux Red Hat Administration-I (36hr)
+•
+Introduction to Data Center (36hr)
+•
+VMware vSphere: Install, Configure, Manage [ICM v7] (60hr)
+•
+VMware vSphere Optimize and Scale (36hr)
+•
+Cloud Computing Concepts (36 hr)
+•
+AWS Solutions Architect (48hr)
+•
+•
+VMware Cloud on AWS workshop (6hr)
+Business Skills Modules: 132 Hours
+Soft Skills training.
+•
+Business English.
+•
+Project Management.
+•
+Freelancing.
+•
+2023 May – 2023 May
+Projects
+multithreaded-chat-server 
+Involved developing a client-server chat application using C# and Windows 
+Forms. Client's text-chat to each other Client send images to each other server 
+logs all the messages sent between clients, server will broadcast its IP address and 
+port number using UDP.
+2022 May – 2022 Jun
+Give your Application Auto-Deploy Superpowers 
+Built With Circle CI - Cloud-based CI/ CD service - Amazon AWS - Cloud services 
+AWS CLI - Command-line tool for AWS CloudFormation - Infrastrcuture as code 
+Ansible - Configuration management tool Prometheus - Monitoring tool
+Languages
+Arabic — Native
+English — Excellent
+Organizations
+AWS Community Builders, Amazon
+2023 Mar – present
+Google Developers Groups Assuit (GDG Assiut), 
+Founder & Main Organizer
+2021 Dec – present
+Gold Microsoft Learn Student Ambassador 
+2021 Jan – present
